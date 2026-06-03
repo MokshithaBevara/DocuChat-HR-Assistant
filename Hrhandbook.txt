@@ -1,0 +1,166 @@
+"""
+# Human Resources Handbook
+**For an Indian Information Technology Company**
+---
+## 1. Introduction
+Welcome to the Company. This Human Resources (HR) Handbook is designed to provide employees with a clear understanding of the Company’s people practices, policies, procedures, and expectations. It reflects our commitment to creating a professional, ethical, inclusive, and high-performing work environment aligned with Indian laws and global IT industry standards.
+This handbook is not a contract of employment. The Company reserves the right to amend, modify, or withdraw any policy at its discretion, subject to applicable laws.
+---
+## 2. Company Values and Culture
+Our culture is built on:
+* Integrity and ethical conduct
+* Respect for individuals and diversity
+* Customer-centric thinking
+* Continuous learning and innovation
+* Accountability and ownership
+Employees are expected to uphold these values in all professional interactions.
+---
+## 3. Employment Categories
+### 3.1 Types of Employment
+* **Permanent Employees**: Full-time employees with ongoing employment.
+* **Probationary Employees**: Newly hired employees undergoing a probation period.
+* **Contractual Employees**: Employees hired for a specific duration or project.
+* **Interns / Trainees**: Individuals engaged for learning and training purposes.
+### 3.2 Probation Policy
+* Standard probation period: **6 months**
+* May be extended by up to **3 months** based on performance
+* Confirmation subject to satisfactory performance and conduct
+---
+## 4. Working Hours and Attendance
+### 4.1 Working Hours
+* Standard work week: **5 days (Monday to Friday)**
+* Standard working hours: **9 hours per day** (inclusive of breaks)
+* Core working hours: **11:00 AM – 4:00 PM IST**
+### 4.2 Flexible Working Hours
+Employees may opt for flexible timings subject to team and project requirements, manager approval, and client commitments.
+### 4.3 Attendance and Time Tracking
+* Employees must log working hours using the Company’s attendance system
+* Persistent late arrivals or irregular attendance may lead to disciplinary action
+---
+## 5. Leave Policy
+### 5.1 Types of Leave
+#### a. Earned / Privilege Leave (PL)
+* 18 days per calendar year
+* Accrues monthly
+* Carry forward up to 45 days
+#### b. Casual Leave (CL)
+* 7 days per calendar year
+* Cannot be carried forward
+#### c. Sick Leave (SL)
+* 7 days per calendar year
+* Medical certificate required for absences exceeding 2 consecutive days
+#### d. Maternity Leave
+* As per the **Maternity Benefit Act, 1961**
+* 26 weeks for first two children
+#### e. Paternity Leave
+* 10 working days
+* Must be availed within 3 months of childbirth
+#### f. Public Holidays
+* As notified annually (minimum 10 holidays including national holidays)
+---
+## 6. Work From Home and Hybrid Policy
+* Hybrid work model applicable for eligible roles
+* WFH subject to manager approval and project feasibility
+* Employees must ensure data security, availability, and productivity during WFH
+---
+## 7. Compensation and Benefits
+### 7.1 Salary Structure
+* Basic Pay
+* House Rent Allowance (HRA)
+* Special Allowance
+* Statutory Benefits
+### 7.2 Statutory Benefits
+* Provident Fund (PF)
+* Employee State Insurance (ESI) (where applicable)
+* Gratuity as per Payment of Gratuity Act, 1972
+### 7.3 Performance Bonus
+* Annual or project-based
+* Linked to individual and company performance
+---
+## 8. Performance Management
+### 8.1 Appraisal Cycle
+* Annual performance appraisal
+* Mid-year reviews
+### 8.2 Performance Improvement Plan (PIP)
+* Issued for consistent underperformance
+* Duration: 30–90 days
+* Failure to improve may lead to termination
+---
+## 9. Code of Conduct
+Employees must:
+* Act honestly and ethically
+* Avoid conflicts of interest
+* Maintain professional behavior
+* Comply with company policies and laws
+---
+## 10. IT and Information Security Policy
+### 10.1 Acceptable Use
+* Company IT assets to be used strictly for business purposes
+* Unauthorized software installation prohibited
+### 10.2 Data Protection
+* Compliance with client NDAs and data protection laws
+* No sharing of confidential information externally
+### 10.3 Monitoring
+* Company reserves the right to monitor IT systems for security and compliance
+---
+## 11. Anti-Harassment and POSH Policy
+The Company follows the **Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013**.
+* Zero tolerance for harassment
+* Internal Complaints Committee (ICC) constituted
+* Confidential and unbiased inquiry process
+---
+## 12. Equal Opportunity and Non-Discrimination Policy
+The Company does not discriminate on the basis of gender, caste, religion, disability, age, sexual orientation, or marital status.
+---
+## 13. Health, Safety, and Wellness
+* Safe and ergonomic work environment
+* Mandatory compliance with safety instructions
+* Employee wellness programs and insurance coverage
+---
+## 14. Training and Development
+* Mandatory induction training
+* Technical and soft skill programs
+* Certification reimbursement subject to approval
+---
+## 15. Disciplinary Policy
+### 15.1 Misconduct
+Includes but is not limited to:
+* Theft or fraud
+* Breach of confidentiality
+* Insubordination
+* Workplace harassment
+### 15.2 Disciplinary Actions
+* Verbal warning
+* Written warning
+* Suspension
+* Termination
+---
+## 16. Separation Policy
+### 16.1 Resignation
+* Notice period:
+  * Probation: 30 days
+  * Confirmed employees: 60 days
+### 16.2 Termination
+* Based on misconduct, redundancy, or performance
+* As per applicable laws
+### 16.3 Exit Process
+* Knowledge transfer
+* Asset return
+* Exit interview
+* Full & final settlement within statutory timelines
+---
+## 17. Grievance Redressal
+Employees may raise grievances through:
+* Reporting Manager
+* HR Department
+* Ethics Committee
+All grievances will be handled confidentially and fairly.
+---
+## 18. Policy Amendments
+The Company reserves the right to amend policies to align with business needs and legal requirements.
+---
+## 19. Acknowledgement
+Employees are required to acknowledge that they have read, understood, and agreed to abide by this HR Handbook.
+---
+**End of Handbook**
+"""
